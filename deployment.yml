@@ -1,4 +1,4 @@
-apiVersion: v10
+apiVersion: v20
 kind: Deployment
 metadata: 
  name: deployment
